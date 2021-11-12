@@ -1,8 +1,8 @@
-#include<iostream>
+	#include<iostream>
 using namespace std;
 
 int main(){
 	
-	system("C:\\Windows\\Resources\\Themes\\dark.theme");
+	system("C:\\Windows\\Resources\\Themes\\themeA.theme");
 	system("exit");
 }
