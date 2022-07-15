@@ -3,6 +3,6 @@ using namespace std;
 
 int main(){
 	
-	system("C:\\Windows\\Resources\\Themes\\quoteDark.theme");
+	system("C:\\Windows\\Resources\\Themes\\dark.theme");
 	system("exit");
 }
